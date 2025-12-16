@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Serkan Albayrak | Software Developer</h1>
+<h1 align="center">🚀 Serkan Albayrak | Web and Software Developer</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Serkan-Albayrak&label=Profile%20views&color=0e75b6&style=flat" />
